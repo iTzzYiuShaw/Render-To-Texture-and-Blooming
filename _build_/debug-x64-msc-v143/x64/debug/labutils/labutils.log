@@ -1,0 +1,10 @@
+﻿  vulkan_window.cpp
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x46af that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6145 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6148 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6264 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6267 that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x626d that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x636d that is illegal in the current source character set (codepage 65001).
+D:\Working\MSc Game Engineering\Vulkan\A3\cw3\labutils\vulkan_window.cpp(1,1): warning C4828: The file contains a character starting at offset 0x6370 that is illegal in the current source character set (codepage 65001).
+  labutils.vcxproj -> D:\Working\MSc Game Engineering\Vulkan\A3\cw3\lib\labutils-debug-x64-msc-v143.lib

@@ -1,0 +1,9 @@
+^D:\WORKING\MSC GAME ENGINEERING\VULKAN\A3\CW3\CW3\SHADERS\DEFAULT.FRAG
+IF NOT EXIST "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders" (mkdir "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders")
+"D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/assets/cw3/shaders/default.frag.spv" "default.frag"
+^D:\WORKING\MSC GAME ENGINEERING\VULKAN\A3\CW3\CW3\SHADERS\DEFAULT.VERT
+IF NOT EXIST "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders" (mkdir "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders")
+"D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/assets/cw3/shaders/default.vert.spv" "default.vert"
+^D:\WORKING\MSC GAME ENGINEERING\VULKAN\A3\CW3\CW3\SHADERS\FULLSCREEN.VERT
+IF NOT EXIST "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders" (mkdir "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\\assets\cw3\shaders")
+"D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\Working\MSc Game Engineering\Vulkan\A3\cw3\/assets/cw3/shaders/fullscreen.vert.spv" "fullscreen.vert"
